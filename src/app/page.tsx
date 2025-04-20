@@ -27,7 +27,7 @@ export default function Home() {
         }`}
       </style>
       <div className=" absolute top-2 left-2 flex border-2 border-black ">
-        <Link className=" bg-black absolute top-0 left-0 z-0" href="https://www.animationapi.com" target="_blank">
+        <Link className=" bg-black absolute top-0 left-0 z-0" href="https://www.animationapi.com?ref=transformlab" target="_blank">
           <AALogo />
         </Link>
         <div className=" bg-foreground z-10 origin-top-left [animation:logo-move_5s_cubic-bezier(0.175,0.885,0.32,1.275)_alternate_infinite]">
