@@ -40,7 +40,7 @@ export default function Home() {
         </h1>
         <p className="leading-7 [&:not(:first-child)]:mt-6">
           Play around with different CSS tranforms. See how these imapct the
-          transform matrix (2D/3d)
+          transform matrix (2d/3d)
         </p>
       </div>
       <TransformPlayground />
