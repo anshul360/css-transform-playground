@@ -1,5 +1,6 @@
 {
-  "name": "css-transform-viewer",
+  "name": "transform-lab",
+  "description": "A visual sandbox for mastering CSS transforms, matrices, and anchor dynamics.",
   "version": "0.1.0",
   "license": "MIT",
   "author": {

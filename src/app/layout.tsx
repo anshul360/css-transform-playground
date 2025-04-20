@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "CSS Transform Playground",
-  description: "Get a greater understanding of CSS transform matrix by experimenting with diffeerent attributes and values",
+  title: "TransformLab",
+  description: "A visual sandbox for mastering CSS transforms, matrices, and anchor dynamics.",
 };
 
 export default function RootLayout({

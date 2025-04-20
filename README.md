@@ -1,6 +1,6 @@
-# CSS Transform Playground
+# TransformLab
 
-App to play around with different CSS tranforms and the imapct of each using transform matrix.
+A visual sandbox for mastering CSS transforms, matrices, and anchor dynamics.
 
 ## Getting Started
 
